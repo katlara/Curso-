@@ -2,7 +2,8 @@
 Archivo curso R
 # curso- grupo2
 ## documentos
-### lista
+### lista - nueva 
+
 
 
 -instalar
